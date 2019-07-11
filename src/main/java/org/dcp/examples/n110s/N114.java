@@ -1,10 +1,10 @@
-package org.dcp.examples.n070s;
+package org.dcp.examples.n110s;
 
 /**
 
  */
 
-public class N073 {
+public class N114 {
     public static void main(String[] args) {
 
     }
