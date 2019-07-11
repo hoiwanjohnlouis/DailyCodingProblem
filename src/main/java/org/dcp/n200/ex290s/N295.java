@@ -1,10 +1,10 @@
-package org.dcp.examples.n050s;
+package org.dcp.n200.ex290s;
 
 /**
 
  */
 
-public class N052Skip {
+public class N295 {
     public static void main(String[] args) {
 
     }
