@@ -15,7 +15,7 @@ package org.dcp.n000.ex070s;
  you should return false, since we can't modify any one element to get a non-decreasing array.
  */
 
-public class N079MediumFacebookIncreasingArray {
+public class Ex079MediumFacebookIncreasingArray {
     public static void main(String[] args) {
 
     }

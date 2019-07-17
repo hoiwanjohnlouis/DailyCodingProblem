@@ -12,7 +12,7 @@ package org.dcp.n000.ex070s;
  the longest increasing subsequence has length 6: it is 0, 2, 6, 9, 11, 15.
  */
 
-public class N075HardMicrosoftIncreasingArray {
+public class Ex075HardMicrosoftIncreasingArray {
     public static void main(String[] args) {
 
     }

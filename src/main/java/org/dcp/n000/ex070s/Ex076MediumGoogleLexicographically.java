@@ -35,7 +35,7 @@ package org.dcp.n000.ex070s;
  Your function should return 3, since we would need to remove all the columns to order it.
  */
 
-public class N076MediumGoogleLexicographically {
+public class Ex076MediumGoogleLexicographically {
     public static void main(String[] args) {
 
     }

@@ -13,7 +13,7 @@ package org.dcp.n000.ex070s;
  you should return [(1, 3), (4, 10), (20, 25)].
  */
 
-public class N077EasySnapchatMergeOverlaps {
+public class Ex077EasySnapchatMergeOverlaps {
     public static void main(String[] args) {
 
     }

@@ -7,7 +7,7 @@ package org.dcp.n000.ex070s;
  write a function to merge all the lists into one sorted singly linked list.
  */
 
-public class N078MediumGoogleMergeLinkedLists {
+public class Ex078MediumGoogleMergeLinkedLists {
     public static void main(String[] args) {
 
     }
