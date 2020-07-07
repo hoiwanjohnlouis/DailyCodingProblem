@@ -1,0 +1,17 @@
+package org.dcp.n400.ex00s;
+
+/**
+ This problem was asked by Twitter.
+
+ A strobogrammatic number is a positive number that appears the same
+ after being rotated 180 degrees. For example, 16891 is strobogrammatic.
+
+ Create a program that finds all strobogrammatic numbers with N digits.
+ */
+
+public class Ex2EasyTwitterStrobogrammatic {
+    public static void main(String[] args) {
+
+    }
+
+}
