@@ -21,7 +21,7 @@ package org.dcp.n300.ex50s;
  create an algorithm that determines the likely sense of each possibly ambiguous word.
  */
 
-public class Ex1HGardQuoraDisambiguation {
+public class Ex1HardQuoraDisambiguation {
     public static void main(String[] args) {
 
     }

@@ -1,17 +1,26 @@
 package org.dcp.n200.ex40s;
 
-import org.junit.After;
-import org.junit.Before;
+import org.junit.jupiter.api.Test;
 
-import static org.junit.Assert.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
 public class Ex249HardSalesforceMaximumXORTest {
+    /*
+     *  work data
+     */
+    Ex249HardSalesforceMaximumXOR exData;
 
-    @Before
-    public void setUp() throws Exception {
+    @Test
+    void Test001() {
+        // process array of tags
+        assertEquals(0,0);
+        assertNotEquals(0,1);
     }
 
-    @After
-    public void tearDown() throws Exception {
+    /**
+     * @param args   no args used at this time
+     */
+    public static void main(String[] args) {
     }
 }

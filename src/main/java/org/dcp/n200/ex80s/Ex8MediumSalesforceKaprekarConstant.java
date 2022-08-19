@@ -3,7 +3,7 @@ package org.dcp.n200.ex80s;
 /**
  This problem was asked by Salesforce.
 
- The number 6174 is known as Kaprekar's contant,
+ The number 6174 is known as Kaprekar's constant,
  after the mathematician who discovered an associated property:
  for all four-digit numbers with at least two distinct digits,
  repeatedly applying a simple procedure eventually results in
@@ -21,7 +21,7 @@ package org.dcp.n200.ex80s;
 
  */
 
-public class Ex8MediumSalesforceKaprekarContant {
+public class Ex8MediumSalesforceKaprekarConstant {
     public static void main(String[] args) {
 
     }

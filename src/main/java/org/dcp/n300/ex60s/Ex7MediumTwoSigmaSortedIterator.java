@@ -25,7 +25,7 @@ package org.dcp.n300.ex60s;
  Bonus: Make it work without pulling in the contents of the iterators in memory.
  */
 
-public class Ex7MediumTwoSigmaSortedInterator {
+public class Ex7MediumTwoSigmaSortedIterator {
     public static void main(String[] args) {
 
     }

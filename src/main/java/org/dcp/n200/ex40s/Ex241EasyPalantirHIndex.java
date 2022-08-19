@@ -16,7 +16,7 @@ package org.dcp.n200.ex40s;
  Given a list of paper citations of a researcher, calculate their h-index.
  */
 
-public class Ex241EasyPalantirH_Index {
+public class Ex241EasyPalantirHIndex {
     public static void main(String[] args) {
 
     }

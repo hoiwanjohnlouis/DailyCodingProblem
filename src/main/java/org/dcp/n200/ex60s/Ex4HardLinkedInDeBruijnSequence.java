@@ -10,7 +10,7 @@ package org.dcp.n200.ex60s;
  Create an algorithm that finds a De Bruijn sequence.
  */
 
-public class Ex4HardLinkInDeBruijnSequence {
+public class Ex4HardLinkedInDeBruijnSequence {
     public static void main(String[] args) {
 
     }

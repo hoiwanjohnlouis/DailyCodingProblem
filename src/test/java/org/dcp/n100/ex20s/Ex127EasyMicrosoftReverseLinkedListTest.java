@@ -1,17 +1,31 @@
 package org.dcp.n100.ex20s;
 
-import org.junit.After;
-import org.junit.Before;
+import org.junit.jupiter.api.*;
 
-import static org.junit.Assert.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.jupiter.api.Assertions.assertNotEquals;
 
 public class Ex127EasyMicrosoftReverseLinkedListTest {
-
-    @Before
-    public void setUp() throws Exception {
+    @BeforeAll
+    static void beforeAll() {
+    }
+    @AfterAll
+    static void afterAll() {
+    }
+    @BeforeEach
+    void setUp() {
+    }
+    @AfterEach
+    void tearDown() {
     }
 
-    @After
-    public void tearDown() throws Exception {
+    @Test
+    void Test001() {
+        // process array of tags
+        assertEquals(0,0);
+        assertNotEquals(0,1);
+    }
+
+    public static void main(String[] args) {
     }
 }
